@@ -1,0 +1,45 @@
+# view res/layout/activity_main.xml #generated:43
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.baidu.location.f { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.way.app.Application { <init>(...); }
+
+# view AndroidManifest.xml #generated:89
+-keep class com.way.app.NetBroadcastReceiver { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:51
+-keep class com.way.indicator.CirclePageIndicator { <init>(...); }
+
+# view res/layout/biz_plugin_weather_select_city.xml #generated:80
+-keep class com.way.plistview.BladeView { <init>(...); }
+
+# view res/layout/biz_plugin_weather_select_city.xml #generated:65
+-keep class com.way.plistview.PinnedHeaderListView { <init>(...); }
+
+# view res/layout/main_title.xml #generated:66
+-keep class com.way.plistview.RotateImageView { <init>(...); }
+
+# view res/layout/swipeback_layout.xml #generated:2
+-keep class com.way.swipeback.SwipeBackLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.way.weather.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class com.way.weather.SelectCtiyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.way.weather.WeatherUpdateService { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.way.weather.WeatherWidget { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.way.weather.wxapi.WXEntryActivity { <init>(...); }
+
+# onClick res/layout/biz_plugin_weather_layout.xml #generated:2
+-keepclassmembers class * { *** goToLocalNews(...); }
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="time_mask_width">110.0dip</dimen>
+    <dimen name="time_mask_height">116.0dip</dimen>
+    <dimen name="time_interval">10.0dip</dimen>
+    <dimen name="time_marginBottom">40.0dip</dimen>
+    <dimen name="biz_weather_pager_height">205.0dip</dimen>
+    <dimen name="blade_view_text_size">19dip</dimen>
+    <dimen name="splash_margin_top">150dip</dimen>
+</resources>
